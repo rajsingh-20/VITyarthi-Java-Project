@@ -23,6 +23,45 @@ The project is developed using **Java, Object-Oriented Programming (OOP), JDBC, 
 
 ---
 
+main/
+│
+├── 1-src/
+│   │
+│   ├── 1-model/
+│   │   ├── 1-Patient.java
+│   │   ├── 2-Doctor.java
+│   │   ├── 3-Appointment.java
+│   │   └── 4-Bill.java
+│   │
+│   ├── 2-dao/
+│   │   ├── 1-PatientDAO.java
+│   │   ├── 2-DoctorDAO.java
+│   │   ├── 3-AppointmentDAO.java
+│   │   └── 4-BillDAO.java
+│   │
+│   ├── 3-service/
+│   │   ├── 1-PatientService.java
+│   │   ├── 2-DoctorService.java
+│   │   ├── 3-AppointmentService.java
+│   │   └── 4-BillingService.java
+│   │
+│   ├── 4-util/
+│   │   ├── 1-DatabaseConnection.java
+│   │   └── 2-InputValidator.java
+│   │
+│   └── Main.java
+│
+├── 2-database/
+│   ├── 0-Database.sql
+│   ├── 1-Patient.sql
+│   ├── 2-Doctor.sql
+│   ├── 3-Appointment.sql
+│   ├── 4-Bill.sql
+│
+├── README.md
+└── statement.md
+
+---
 
 ## 1. Project Overview
 

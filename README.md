@@ -67,7 +67,7 @@ main/
 
 ---
 
-## 1. Project Overview
+## 1. 📝Project Overview
 
 Managing hospital information manually can be time-consuming and can lead to errors in maintaining patient records, doctor information, appointments, and billing details.
 

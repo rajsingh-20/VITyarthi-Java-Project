@@ -1,2 +1,2 @@
-# VITyarthi-Java-Project
-## Hospital Management System
+## VITyarthi-Java-Project
+### Hospital Management System

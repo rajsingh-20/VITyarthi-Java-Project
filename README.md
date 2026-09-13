@@ -7,6 +7,23 @@ The project is developed using **Java, Object-Oriented Programming (OOP), JDBC, 
 
 ---
 
+## 👤 Student Details
+
+| Field | Details |
+|-------|---------|
+| **Name** | Raj Singh |
+| **Registration No.** | 25BAI10997 |
+| **Branch** | CSE (AI & ML) |
+| **Year** | First Year B.Tech |
+| **Course Code** | CSE0001 |
+| **Course Title** | Digital Literacy |
+| **Credits** | 1 Credit – Pass/Fail (Non-CGPA) |
+| **University** | VIT Bhopal University |
+| **Submission Date** | 31st March 2026 |
+
+---
+
+
 ## 1. Project Overview
 
 Managing hospital information manually can be time-consuming and can lead to errors in maintaining patient records, doctor information, appointments, and billing details.

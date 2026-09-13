@@ -10,7 +10,7 @@ USE hospital_db;
 
 
 -- ============================================
--- 1. PATIENTS TABLE
+-- PATIENTS TABLE
 -- ============================================
 
 CREATE TABLE patients (
@@ -42,7 +42,7 @@ VALUES
 
 
 -- ============================================
--- DISPLAY TABLES
+-- DISPLAY PATIENT TABLES
 -- ============================================
 
 SELECT * FROM patients;

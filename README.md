@@ -1,4 +1,4 @@
-# VITyarthi-Java-Project
+# 🐍VITyarthi-Java-Project
 ## Hospital Management System
 
 A Java-based Hospital Management System designed to manage essential hospital operations such as patient records, doctor information, appointments, and billing.

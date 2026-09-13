@@ -43,7 +43,7 @@ VALUES
 
 
 -- ============================================
--- DISPLAY APPOINTMENT TABLES
+-- DISPLAY APPOINTMENTS TABLES
 -- ============================================
 
 SELECT * FROM appointments;

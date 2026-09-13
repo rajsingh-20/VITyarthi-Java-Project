@@ -105,7 +105,7 @@ Therefore, this project aims to develop a **Java-based Hospital Management Syste
 
 ---
 
-## 3. Objectives
+## 🎯3. Objectives
 
 The main objectives of this project are:
 
@@ -122,7 +122,7 @@ The main objectives of this project are:
 
 ---
 
-## 4. Technologies Used
+## 💻4. Technologies Used
 
 | Technology | Purpose |
 |------------|---------|
@@ -137,11 +137,11 @@ The main objectives of this project are:
 
 ---
 
-## 5. Major Functional Modules
+## 🧩5. Major Functional Modules
 
 The system contains four major functional modules.
 
-### 5.1 Patient Management
+### ✅5.1 Patient Management
 
 The Patient Management module handles patient information.
 
@@ -165,7 +165,7 @@ The Patient Management module handles patient information.
 
 ---
 
-### 5.2 Doctor Management
+### ✅5.2 Doctor Management
 
 The Doctor Management module maintains doctor information.
 
@@ -187,7 +187,7 @@ The Doctor Management module maintains doctor information.
 
 ---
 
-### 5.3 Appointment Management
+### ✅5.3 Appointment Management
 
 The Appointment Management module handles appointments between patients and doctors.
 
@@ -211,7 +211,7 @@ Before booking an appointment, the system checks whether the specified patient a
 
 ---
 
-### 5.4 Billing Management
+### ✅5.4 Billing Management
 
 The Billing Management module handles patient billing.
 

@@ -25,7 +25,7 @@ CREATE TABLE patients (
 
 
 -- ============================================
--- SAMPLE PATIENT DATA
+-- SAMPLE PATIENTS DATA
 -- ============================================
 
 INSERT INTO patients

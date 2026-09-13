@@ -10,21 +10,6 @@ USE hospital_db;
 
 
 -- ============================================
--- 1. PATIENTS TABLE
--- ============================================
-
-CREATE TABLE patients (
-    patient_id INT PRIMARY KEY AUTO_INCREMENT,
-    name VARCHAR(100) NOT NULL,
-    age INT NOT NULL,
-    gender VARCHAR(10),
-    phone VARCHAR(15),
-    address VARCHAR(200),
-    disease VARCHAR(100)
-);
-
-
--- ============================================
 -- 2. DOCTORS TABLE
 -- ============================================
 

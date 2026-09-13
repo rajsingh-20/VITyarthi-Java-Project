@@ -38,7 +38,7 @@ VALUES
 
 
 -- ============================================
--- DISPLAY DOCTOR TABLE
+-- DISPLAY DOCTORS TABLE
 -- ============================================
 
 SELECT * FROM doctors;

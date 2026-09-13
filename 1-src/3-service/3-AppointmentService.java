@@ -6,7 +6,6 @@ import dao.DoctorDAO;
 import model.Appointment;
 import model.Patient;
 import model.Doctor;
-
 import java.util.List;
 
 public class AppointmentService {

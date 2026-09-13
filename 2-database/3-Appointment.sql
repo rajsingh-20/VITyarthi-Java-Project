@@ -10,7 +10,7 @@ USE hospital_db;
 
 
 -- ============================================
--- 3. APPOINTMENTS TABLE
+-- APPOINTMENTS TABLE
 -- ============================================
 
 CREATE TABLE appointments (
@@ -43,7 +43,7 @@ VALUES
 
 
 -- ============================================
--- DISPLAY TABLES
+-- DISPLAY APPOINTMENT TABLES
 -- ============================================
 
 SELECT * FROM appointments;

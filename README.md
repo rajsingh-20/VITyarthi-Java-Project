@@ -88,7 +88,7 @@ The application uses **JDBC (Java Database Connectivity)** to communicate betwee
 
 ---
 
-## 2. Problem Statement
+## 🔴2. Problem Statement
 
 Hospitals need to maintain a large amount of information related to patients, doctors, appointments, and billing.
 

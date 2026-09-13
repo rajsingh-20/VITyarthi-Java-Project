@@ -1,4 +1,4 @@
- package service;
+package service;
 
 import dao.AppointmentDAO;
 import dao.PatientDAO;

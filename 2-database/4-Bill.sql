@@ -10,7 +10,7 @@ USE hospital_db;
 
 
 -- ============================================
--- 4. BILLS TABLE
+-- BILLS TABLE
 -- ============================================
 
 CREATE TABLE bills (
@@ -41,7 +41,7 @@ VALUES
 
 
 -- ============================================
--- DISPLAY TABLES
+-- DISPLAY BILLS TABLES
 -- ============================================
 
 SELECT * FROM bills;

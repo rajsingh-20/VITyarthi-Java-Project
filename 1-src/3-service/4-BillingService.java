@@ -4,7 +4,6 @@ import dao.BillDAO;
 import dao.PatientDAO;
 import model.Bill;
 import model.Patient;
-
 import java.util.List;
 
 public class BillService {

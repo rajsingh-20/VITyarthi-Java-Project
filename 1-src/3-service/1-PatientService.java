@@ -2,7 +2,6 @@ package service;
 
 import dao.PatientDAO;
 import model.Patient;
-
 import java.util.List;
 
 public class PatientService {

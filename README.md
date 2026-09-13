@@ -23,6 +23,9 @@ The project is developed using **Java, Object-Oriented Programming (OOP), JDBC, 
 
 ---
 
+## 🗂️ Repository Structure
+
+```
 main/
 │
 ├── 1-src/
@@ -60,6 +63,7 @@ main/
 │
 ├── README.md
 └── statement.md
+```
 
 ---
 

@@ -91,7 +91,3 @@ public class PatientService {
     }
 }
 ```
- and maintainability**, which are explicitly part of the project expectations.
-
-**Next, the most important part is `Main.java`** — we'll create the actual menu-driven application that lets the user operate all four modules from one program.
-

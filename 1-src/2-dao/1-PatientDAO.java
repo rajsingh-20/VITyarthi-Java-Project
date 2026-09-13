@@ -266,4 +266,24 @@ public class PatientDAO {
         }
     }
 
-    
+    // DELETE PATIENT
+    public boolean deletePatient(int patientId) {
+
+        String sql = "DELETE FROM patients WHERE patient_id=?";
+
+        try (Connection con = DatabaseConnection.getConnection();
+             PreparedStatement ps = con.prepareStatement(sql)) {
+
+            ps.setInt(1, patientId);
+
+            return ps.executeUpdate() > 0;
+
+        } catch (SQLException e) {
+            System.out.println("Error deleting patient.");
+            e.printStackTrace();
+            return false;
+        }
+    }
+}
+```
+

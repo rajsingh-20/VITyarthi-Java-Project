@@ -1,5 +1,3 @@
-package main;
-
 import model.Patient;
 import model.Doctor;
 import model.Appointment;
@@ -727,4 +725,29 @@ public class Main {
         System.out.println("Payment Status   : " +
                 b.getPaymentStatus());
     }
+
+    // Update Payment Status
+    public static void updatePaymentStatus() {
+
+        System.out.println("\n--- Update Payment Status ---");
+
+        System.out.print("Enter Bill ID: ");
+        int billId = sc.nextInt();
+        sc.nextLine();
+
+        System.out.print("Enter Payment Status (Paid/Pending): ");
+        String paymentStatus = sc.nextLine();
+
+        boolean result = billService.updatePaymentStatus(
+               billId, paymentStatus
+        );
+
+        if (result) {
+            System.out.println("Payment status updated successfully!");
+        }
+        else {
+            System.out.println("Failed to update payment status.");
+        }
+    }
+}
 

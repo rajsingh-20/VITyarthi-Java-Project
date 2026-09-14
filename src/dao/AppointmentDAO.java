@@ -1,4 +1,3 @@
-```java
 package dao;
 
 import model.Appointment;
@@ -171,5 +170,4 @@ public class AppointmentDAO {
         }
     }
 }
-```
 

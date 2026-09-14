@@ -1,4 +1,3 @@
-```java
 package dao;
 
 import model.Patient;
@@ -151,5 +150,4 @@ public class PatientDAO {
         }
     }
 }
-```
 

@@ -7,11 +7,11 @@ import java.sql.SQLException;
 public class DatabaseConnection {
 
     private static final String URL =
-            "jdbc:mysql://localhost:3306/hospital_db";
+            "jdbc:sqlserver://localhost:1433;databaseName=hospital;encrypt=true;trustServerCertificate=true;";
 
-    private static final String USER = "root";
+    private static final String USER = "sa";
 
-    private static final String PASSWORD = "your_password";
+    private static final String PASSWORD = "Blackpearl@20";
 
     // Create database connection
     public static Connection getConnection() {

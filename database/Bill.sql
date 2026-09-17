@@ -3,7 +3,7 @@
 -- ============================================
 
 CREATE TABLE bills (
-    bill_id INT PRIMARY KEY AUTO_INCREMENT,
+    bill_id INT PRIMARY KEY IDENTITY(1,1),
     patient_id INT NOT NULL,
     consultation_fee DECIMAL(10,2),
     medicine_fee DECIMAL(10,2),

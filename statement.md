@@ -25,7 +25,7 @@ The scope of the Hospital Management System includes the management of basic hos
 
 The system covers the following areas:
 
-### 2.1 Patient Management
+### ✅2.1 Patient Management
 
 The system allows users to:
 
@@ -45,7 +45,7 @@ Patient information includes:
 - Address
 - Disease
 
-### 2.2 Doctor Management
+### ✅2.2 Doctor Management
 
 The system allows users to:
 
@@ -63,7 +63,7 @@ Doctor information includes:
 - Phone
 - Experience
 
-### 2.3 Appointment Management
+### ✅2.3 Appointment Management
 
 The system allows users to:
 
@@ -83,7 +83,7 @@ Appointment information includes:
 
 Before booking an appointment, the system verifies that the selected patient and doctor exist.
 
-### 2.4 Billing Management
+### ✅2.4 Billing Management
 
 The system allows users to:
 

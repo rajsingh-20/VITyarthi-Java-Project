@@ -238,3 +238,5 @@ The total bill is calculated using:
 ```text
 Total Amount =
 Consultation Fee + Medicine Fee + Room Fee
+
+GitHub Link : https://github.com/rajsingh-20/VITyarthi-Java-Project

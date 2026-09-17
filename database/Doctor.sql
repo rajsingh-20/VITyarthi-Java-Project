@@ -3,7 +3,7 @@
 -- ============================================
 
 CREATE TABLE doctors (
-    doctor_id INT PRIMARY KEY AUTO_INCREMENT,
+    doctor_id INT PRIMARY KEY IDENTITY(1,1),
     name VARCHAR(100) NOT NULL,
     specialization VARCHAR(100),
     phone VARCHAR(15),

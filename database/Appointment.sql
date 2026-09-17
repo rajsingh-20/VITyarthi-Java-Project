@@ -3,7 +3,7 @@
 -- ============================================
 
 CREATE TABLE appointments (
-    appointment_id INT PRIMARY KEY AUTO_INCREMENT,
+    appointment_id INT PRIMARY KEY IDENTITY(1,1),
     patient_id INT NOT NULL,
     doctor_id INT NOT NULL,
     appointment_date DATE NOT NULL,

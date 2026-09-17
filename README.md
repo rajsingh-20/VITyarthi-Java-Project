@@ -28,38 +28,38 @@ The project is developed using **Java, Object-Oriented Programming (OOP), JDBC, 
 ```
 main/
 │
-├── 1-src/
+├── src/
 │   │
-│   ├── 1-model/
-│   │   ├── 1-Patient.java
-│   │   ├── 2-Doctor.java
-│   │   ├── 3-Appointment.java
-│   │   └── 4-Bill.java
+│   ├── model/
+│   │   ├── Patient.java
+│   │   ├── Doctor.java
+│   │   ├── Appointment.java
+│   │   └── Bill.java
 │   │
-│   ├── 2-dao/
-│   │   ├── 1-PatientDAO.java
-│   │   ├── 2-DoctorDAO.java
-│   │   ├── 3-AppointmentDAO.java
-│   │   └── 4-BillDAO.java
+│   ├── dao/
+│   │   ├── PatientDAO.java
+│   │   ├── DoctorDAO.java
+│   │   ├── AppointmentDAO.java
+│   │   └── BillDAO.java
 │   │
-│   ├── 3-service/
-│   │   ├── 1-PatientService.java
-│   │   ├── 2-DoctorService.java
-│   │   ├── 3-AppointmentService.java
-│   │   └── 4-BillingService.java
+│   ├── service/
+│   │   ├── PatientService.java
+│   │   ├── DoctorService.java
+│   │   ├── AppointmentService.java
+│   │   └── BillingService.java
 │   │
-│   ├── 4-util/
-│   │   ├── 1-DatabaseConnection.java
-│   │   └── 2-InputValidator.java
+│   ├── util/
+│   │   ├── DatabaseConnection.java
+│   │   └── InputValidator.java
 │   │
 │   └── Main.java
 │
-├── 2-database/
-│   ├── 0-Database.sql
-│   ├── 1-Patient.sql
-│   ├── 2-Doctor.sql
-│   ├── 3-Appointment.sql
-│   ├── 4-Bill.sql
+├── database/
+│   ├── Database.sql
+│   ├── Patient.sql
+│   ├── Doctor.sql
+│   ├── Appointment.sql
+│   ├── Bill.sql
 │
 ├── README.md
 └── statement.md
